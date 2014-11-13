@@ -35,3 +35,5 @@ After you have made modifications to glide source code you can install glide usi
 
 
 [![githalytics.com alpha](https://cruel-carlota.pagodabox.com/53b148f82205c28cff2d3378e7108793 "githalytics.com")](http://githalytics.com/kdabir/glide)
+
+Do Tiagueira
